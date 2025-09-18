@@ -1,6 +1,8 @@
-# Automated Network Request Management in ServiceNow
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Apq4i7-ZMG_7TQx8to2TTHgL4GsOARsb" alt="ServiceNow Logo" width="200"/>
+</p>
 
-![ServiceNow Logo](https://drive.google.com/uc?export=view&id=1Apq4i7-ZMG_7TQx8to2TTHgL4GsOARsb)
+# Automated Network Request Management in ServiceNow
 
 An automated solution for simplifying and accelerating network-related service requests using ServiceNow's service catalog, workflows, and automation capabilities.
 
