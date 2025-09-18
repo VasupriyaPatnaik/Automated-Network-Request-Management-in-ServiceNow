@@ -1,6 +1,6 @@
 # Automated-Network-Request-Management-in-ServiceNow
 
-Document link: 
+Project documentation: 
 
 
-Demo Video link: 
+Project demonstration video: 
