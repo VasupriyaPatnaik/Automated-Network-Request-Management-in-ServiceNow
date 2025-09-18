@@ -6,6 +6,10 @@
 
 An automated solution for simplifying and accelerating network-related service requests using ServiceNow's service catalog, workflows, and automation capabilities.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1mDVdF-yQBPCFHKQZIC4-wVTC-xWHiKLO" alt="Automated Network Request Management Screenshot" width="600"/>
+</p>
+
 ---
 
 ## Project Overview
@@ -20,7 +24,7 @@ End users can submit requests via a self-service portal, while automated routing
 ---
 
 ## Introduction
-Modern enterprises rely heavily on robust network services. As organizations grow, the demand for network requests—such as access provisioning, configuration changes, and connectivity support—also increases.  
+Modern enterprises rely heavily on robust network services. As organizations grow, the demand for network requests—such as access provisioning, configuration changes, and connectivity support—increases.  
 
 Traditional manual request handling often leads to delays, errors, and limited visibility, impacting productivity and user satisfaction.  
 
@@ -76,5 +80,3 @@ The **Automated Network Request Management in ServiceNow** project provides a ro
 ## Project Resources
 - **Project Documentation:** [Click Here](https://drive.google.com/file/d/1TAiNUfmbEGEPDvR02cRRL9Ql80h9klYa/view?usp=sharing)  
 - **Project Demonstration Video:** *Add video link here*  
-
----
