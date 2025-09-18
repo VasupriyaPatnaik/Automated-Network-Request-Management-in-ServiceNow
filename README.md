@@ -79,4 +79,4 @@ The **Automated Network Request Management in ServiceNow** project provides a ro
 
 ## Project Resources
 - **Project Documentation:** [Click Here](https://drive.google.com/file/d/1TAiNUfmbEGEPDvR02cRRL9Ql80h9klYa/view?usp=sharing)  
-- **Project Demonstration Video:** *Add video link here*  
+- **Project Demonstration Video:** [Click Here](https://drive.google.com/file/d/15Wa9q8C-LbNxqZJ5wGM6eJ_en-DFHbgP/view?usp=sharing)
